@@ -279,26 +279,6 @@
   ],
   "reservations": [
     {
-      "flightId": "sQTWMC3R2BKAzkvFCAAAAA==",
-      "flightNumber": "1234",
-      "flightOrigin": "MRU",
-      "flightDestination": "CDG",
-      "userId": 2,
-      "firstName": "prakash",
-      "lastName": "prakash",
-      "email": "prakash@gmail.com",
-      "phone": "57885858",
-      "isPresentEconomy": true,
-      "isPresentPremiumEconomy": true,
-      "isPresentFirst": true,
-      "seatType": {
-        "Economy": 1,
-        "PremiumEconomy": 10,
-        "First": 5
-      },
-      "id": 4
-    },
-    {
       "flightId": "ABzsR3A=WCAkM2AQvAAKFCT=",
       "flightNumber": "7895",
       "flightOrigin": "SIN",
@@ -340,15 +320,6 @@
     }
   ],
   "signupUsers": [
-    {
-      "firstName": "diana",
-      "lastName": "diana",
-      "userName": "diana",
-      "password": "diana",
-      "email": "diana@gmail.com",
-      "phone": "578787878",
-      "id": 1
-    },
     {
       "firstName": "prakash",
       "lastName": "prakash",
