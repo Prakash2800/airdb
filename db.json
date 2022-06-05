@@ -283,66 +283,6 @@
       "flightNumber": "1234",
       "flightOrigin": "MRU",
       "flightDestination": "CDG",
-      "userId": 3,
-      "firstName": "ccc",
-      "lastName": "ccc",
-      "email": "prakashbhunjun@yahoo.com",
-      "phone": "57828435",
-      "isPresentEconomy": true,
-      "isPresentPremiumEconomy": false,
-      "isPresentFirst": false,
-      "seatType": {
-        "Economy": 1,
-        "PremiumEconomy": "",
-        "First": ""
-      },
-      "id": 1
-    },
-    {
-      "flightId": "sQTWMC3DPLdelksllDLdd==",
-      "flightNumber": "4231",
-      "flightOrigin": "CDG",
-      "flightDestination": "MRU",
-      "userId": 3,
-      "firstName": "ccc",
-      "lastName": "ccc",
-      "email": "prakashbhunjun@yahoo.com",
-      "phone": "57828435",
-      "isPresentEconomy": true,
-      "isPresentPremiumEconomy": true,
-      "isPresentFirst": true,
-      "seatType": {
-        "Economy": 1,
-        "PremiumEconomy": 1,
-        "First": 1
-      },
-      "id": 2
-    },
-    {
-      "flightId": "ACMkFvAAWT2A=sQBz=KAACR3",
-      "flightNumber": "5241",
-      "flightOrigin": "MRU",
-      "flightDestination": "RRG",
-      "userId": 3,
-      "firstName": "ccc",
-      "lastName": "ccc",
-      "email": "prakashbhunjun@yahoo.com",
-      "phone": "57828435",
-      "isPresentEconomy": true,
-      "isPresentPremiumEconomy": "",
-      "isPresentFirst": "",
-      "seatType": {
-        "Economy": 1,
-        "PremiumEconomy": "",
-        "First": ""
-      },
-      "id": 3
-    },
-    {
-      "flightId": "sQTWMC3R2BKAzkvFCAAAAA==",
-      "flightNumber": "1234",
-      "flightOrigin": "MRU",
-      "flightDestination": "CDG",
       "userId": 2,
       "firstName": "prakash",
       "lastName": "prakash",
@@ -417,15 +357,6 @@
       "email": "prakash@gmail.com",
       "phone": "57885858",
       "id": 2
-    },
-    {
-      "firstName": "ccc",
-      "lastName": "ccc",
-      "userName": "ccc",
-      "password": "ccc",
-      "email": "prakashbhunjun@yahoo.com",
-      "phone": "57828435",
-      "id": 3
     }
   ]
 }
